@@ -1,0 +1,26 @@
+.top-menu1-wrap{
+  width: 100vw;
+  height: 110vh;
+  background-image: image-url('top-image.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  padding: 100px 0 0 120px;
+  font-size: 30px;
+  color: #fff;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.9);
+}
+.top-rogo{
+  background-color: blue;
+  width: 220px;
+  height: 220px;
+  margin: 20px;
+}
+.menu-lists{
+  font-size: 20px;
+}
+
+.menu-list{
+  list-style: none;
+  margin-bottom: 20px;
+}
